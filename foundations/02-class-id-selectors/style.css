@@ -1,0 +1,16 @@
+.odd {
+    background-color:rgba(255, 192, 203, 0.972);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+.adjust-font-size {
+    font-size: 24px;
+    }
+
+#two {
+    color: rgba(0, 132, 255, 0.967);
+    font-size: 36px;
+}
+#four {
+    background-color: rgb(141, 203, 141);
+    font-weight: bold;
+}
